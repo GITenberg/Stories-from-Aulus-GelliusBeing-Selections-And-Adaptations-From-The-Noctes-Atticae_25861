@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '31620'
     url: http://www.gutenberg.org/2009/agents/31620
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25861#Stories-from-Aulus-GelliusBeing-Selections-And-Adaptations-From-The-Noctes-Atticae
 gutenberg_issued: '2008-06-21'
 gutenberg_type: Text
 identifiers:
